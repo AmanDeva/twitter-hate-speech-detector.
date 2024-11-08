@@ -72,7 +72,7 @@ with site_header:
     
     Models included Random Forest, Naive Bayes, Logistic Regression, and Support Vector Machine (SVM). The final model was a **Logistic Regression** model that used Count Vectorization for feature engineering. It produced an F1 of 0.9616 and Recall (TPR) of 0.9363.  
     
-    Check out the project repository [here](https://github.com/AmanDeva/twitter-hate-speech-detector.git).
+    Check out the project repository [here](https://github.com/AmanDeva/twitter-hate-speech-detector.).
     """)
     # Business Context
 with business_context:
