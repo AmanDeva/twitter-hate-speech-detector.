@@ -190,5 +190,5 @@ with sentiment_analysis:
 with contact:
     st.markdown("---")
     st.header("Contact")
-    st.write("Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-deva/) for collaboration or inquiries.")
-    st.write("You can also reach me via email at [devaaman8@gmail.com](mailto:devaaman8@gmail.com) and [dubeykirtiman2025@gmail.com](mailto:dubeykirtiman2025@gmail.com). ")
+    st.write("Connect with us on [LinkedIn](https://www.linkedin.com/in/aman-deva/) for collaboration or inquiries.")
+    st.write("You can also reach us via email at [devaaman8@gmail.com](mailto:devaaman8@gmail.com) and [dubeykirtiman2025@gmail.com](mailto:dubeykirtiman2025@gmail.com). ")
