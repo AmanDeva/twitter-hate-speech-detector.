@@ -66,7 +66,7 @@ with site_header:
     st.image(logo_image, width=80)  # Display Twitter logo
     st.title('Twitter Hate Speech & Abusive Language Detection and Moderation Classifier')
     st.write("""
-    Created by [Aman Deva](https://github.com/AmanDeva)
+    Created by [Aman Deva](https://github.com/AmanDeva) and [Kirtiman Dubey](https://github.com/dubeykirtiman)
     
     This project aims to **automate content moderation** to identify hate speech using **machine learning binary classification algorithms.**
     
@@ -191,4 +191,4 @@ with contact:
     st.markdown("---")
     st.header("Contact")
     st.write("Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-deva/) for collaboration or inquiries.")
-    st.write("You can also reach me via email at [devaaman8@gmail.com](mailto:devaaman8@gmail.com).")
+    st.write("You can also reach me via email at [devaaman8@gmail.com](mailto:devaaman8@gmail.com) and [dubeykirtiman2025@gmail.com](mailto:dubeykirtiman2025@gmail.com). ")
